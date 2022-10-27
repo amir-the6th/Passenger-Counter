@@ -1,2 +1,5 @@
 # Passenger Counter
- Simple JavaScript application which benefits from the onclick event to modify HTML. This app enables a passenger counter to increment, save, and clear the number of passenger who got into the station.
+---
+
+🛳️ Simple JavaScript application — using the onclick event to modify HTML structure. 
+🚶‍♂️This app enables a person—whose job is to count the passengers in the station—to increment, save, and clear the number of passengers.
